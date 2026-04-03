@@ -1,6 +1,6 @@
 <div align="center" style="border-radius:15px">
   <!-- PUT YOUR IMAGE HERE -->
-  <a href="https://discord.gg/8W2pfy9Run" title="Discord Server" target="_blank">
+  <a href="https://discord.gg/V9GTeE58Dp" title="Discord Server" target="_blank">
     <img src="https://i.pinimg.com/originals/a3/ff/1f/a3ff1f383a66211e265f2109de207b66.jpg" style="width: 100%;border-radius:15px">
   </a>
 </div>
@@ -9,7 +9,7 @@
 
 > I focus on building and improving Discord bots, always learning and experimenting with new features.
 
-> My Discord Server: https://discord.gg/yourserver
+> My Discord Server: https://discord.gg/V9GTeE58Dp
 
 <a href="https://discord.com/users/982444863037505626">
   <img src="https://discord.c99.nl/widget/theme-2/982444863037505626.png">
@@ -35,8 +35,8 @@
 ## SUPPORT ME
 
 You can support me by...
-> - Inviting my bot *(https://discord.com/oauth2/authorize?client_id=1222316651660316804&scope=applications.commands%20bot&permissions=1375279115358)*  
-> - Joining my Discord server *(https://discord.gg/8W2pfy9Run)*  
+> - [Inviting my bot](https://discord.com/oauth2/authorize?client_id=1222316651660316804&scope=applications.commands%20bot&permissions=1375279115358)
+> - [Joining my Discord server](https://discord.gg/V9GTeE58Dp)  [Joining my Bot server](https://discord.gg/8W2pfy9Run)  
 
 # Credits
 
@@ -46,7 +46,7 @@ You can support me by...
 
 ### Some History
 
-> Started working with Discord bots and development, learning through practice and improving over time.
+> I started working with bots and Discord development in 2020 at the age of 10, learning through practice and improving over time.
 > Always evolving, always building 🚀
 
 <!-- PUT ANOTHER IMAGE HERE -->
