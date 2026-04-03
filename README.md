@@ -1,7 +1,7 @@
 <div align="center" style="border-radius:15px">
   <!-- PUT YOUR IMAGE HERE -->
   <a href="https://discord.gg/8W2pfy9Run" title="Discord Server" target="_blank">
-    <img src=https://imgur.com/a/krgxggW" style="width: 100%;border-radius:15px">
+    <img src=https://i.pinimg.com/originals/a3/ff/1f/a3ff1f383a66211e265f2109de207b66.jpg" style="width: 100%;border-radius:15px">
   </a>
 </div>
 
